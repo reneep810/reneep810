@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @reneep810
+- 👋 Hi, I’m Renee
 - 👀 I’m interested in python and maths within python
 - 🌱 I’m currently learning mathematics at university
 <!---
